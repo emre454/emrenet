@@ -10,7 +10,7 @@
 - Kullanıcı dostu hata mesajları ve ipuçları sunar.
 - Ağa bağlı cihazların IP ve MAC adreslerini gösterir.
 
-##Kurulum
+## Kurulum
 Bu uygulamayı kurmak için aşağıdaki adımları takip edebilirsiniz:
 
 1. Reposunu klonlayın:
