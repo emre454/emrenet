@@ -19,7 +19,7 @@ Bu uygulamayı kurmak için aşağıdaki adımları takip edebilirsiniz:
 ```
 3. Proje dizinine gidin:
 4. ```bash
-   cd emrenet ```
+   cd emrenet
 
 5. Gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın:
 6. ```
