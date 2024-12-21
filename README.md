@@ -14,12 +14,13 @@
 Bu uygulamayı kurmak için aşağıdaki adımları takip edebilirsiniz:
 
 1. Reposunu klonlayın:
-   git clone https://github.com/emre454/emrenet.git
+```bash
+   git clone https://github.com/emre454/emrenet.git bash'''
 
-2. Proje dizinine gidin:
+3. Proje dizinine gidin:
    cd emrenet
 
-3. Gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın:
+4. Gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın:
    pip install -r requirements.txt
 
 
