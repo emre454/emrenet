@@ -37,7 +37,7 @@ def tara():
         print("Yardım almak için: python emrenet.py -h veya --help kullanabilirsiniz.")
         return []
     if not ip_format_kontrol(ip):
-        print("(×_×;） Oh no! IP adresi geçerli formatta değil! Lütfen doğru formatta gir! Örnek: 192.168.1.1/24")
+        print("(×_×;） IP adresi geçerli formatta değil! Lütfen doğru formatta gir! Örnek: 192.168.1.1/24")
         print("Yardım almak için: python emrenet.py -h veya --help kullanabilirsiniz.")
     arp_cevap= scapy.ARP(pdst=ip)
 
