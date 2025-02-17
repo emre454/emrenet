@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import scapy.all as scapy
 from scapy.all import ARP, Ether, srp
 import os
